@@ -16,7 +16,11 @@ class MyApp extends StatelessWidget {
             SafeArea(
                 child: Center(
                     child: Column(
-              children: [Text("sample text"), Text("second sample text")],
+              children: [
+                Text("sample text"),
+                Text("second sample text"),
+                Text("vasu annan")
+              ],
             )))
           ],
         ),
