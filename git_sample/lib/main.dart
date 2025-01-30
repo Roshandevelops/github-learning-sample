@@ -19,7 +19,11 @@ class MyApp extends StatelessWidget {
               children: [
                 Text("sample text"),
                 Text("second sample text"),
+<<<<<<< HEAD
                 Text("ASKALAWISTHA")
+=======
+                Text("vasu annan")
+>>>>>>> 82f2bc1f9bc767e9eebafa904d406fd0794b00cd
               ],
             )))
           ],
